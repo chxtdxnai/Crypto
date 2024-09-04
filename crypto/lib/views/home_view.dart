@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../view_models/crypto_view_model.dart';
+import '../view_models/home_view_model.dart';
 
 class HomePage extends StatelessWidget {
   @override

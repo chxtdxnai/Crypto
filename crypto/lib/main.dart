@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'views/home_page.dart';
-import 'view_models/crypto_view_model.dart';
+import 'views/home_view.dart';
+import 'view_models/home_view_model.dart';
 
 void main() {
   runApp(MyApp());
